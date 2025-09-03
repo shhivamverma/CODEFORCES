@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces2
+public class codeforces2                                                          // Problem 266A
 {
     public static void main(String args[])
     {        
@@ -18,4 +18,5 @@ public class codeforces2
         }
         System.out.println(c);
     }
+
 }
