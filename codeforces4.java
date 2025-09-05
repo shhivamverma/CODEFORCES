@@ -1,5 +1,5 @@
 import java.util.*;
-class codeforces4
+class codeforces4                                                         // Problem 2070A - FizzBuzz Remixed
 {
     public static void main(String args[])
     {
@@ -20,4 +20,5 @@ class codeforces4
             System.out.println(c);
         }
     }
+
 }
