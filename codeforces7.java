@@ -1,6 +1,6 @@
 import java.util.*;
 class codeforces7
-{
+{                                                                       // Problem 2092A: Kamalika And The Sheep
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -26,9 +26,10 @@ class codeforces7
                 arr[smallest] = arr[m];
                 arr[m] = temp;
             }
-            gcd=arr[n-1]-arr[0];
+            gcd=arr[n-1]-arr[0];                   // since gcd(x,y)=gcd(x,x-y)
             System.out.println(gcd);
         }
     }
 }
+
 
