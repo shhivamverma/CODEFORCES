@@ -1,5 +1,5 @@
 import java.util.*;
-class codeforces6
+class codeforces6                                                       // Problem 344A - Magnets
 {
     public static void main(String args[])
     {
@@ -20,4 +20,5 @@ class codeforces6
         }
         System.out.println(grp);
     }
+
 }
