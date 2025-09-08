@@ -1,5 +1,5 @@
 import java.util.*;
-class codeforces8
+class codeforces8                                                                        // Problem 2110A: Fashionable Array
 {
     public static void main(String args[])
     {
@@ -71,4 +71,5 @@ class codeforces8
             System.out.println(answer);
         }
     }
+
 }
