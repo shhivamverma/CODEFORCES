@@ -1,5 +1,5 @@
 import java.util.*;
-class codeforces9
+class codeforces9                                                     // Problem 2114A – Square Year
 {
     public static void main(String args[])
     {
@@ -20,4 +20,5 @@ class codeforces9
             }
         }
     }
+
 }
