@@ -1,7 +1,7 @@
 import java.util.*;
 class codeforces11
 {
-    public static void main(String args[])
+    public static void main(String args[])                             // Problem 2072A – New World, New Me, New Array
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -24,4 +24,5 @@ class codeforces11
             }
         }
     }
+
 }
