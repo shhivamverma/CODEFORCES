@@ -1,6 +1,6 @@
 import java.util.*;
 class codeforces12
-{
+{                                                                // Problem 2109A – It’s Time To Duel
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -38,4 +38,5 @@ class codeforces12
             }
         }
     }
+
 }
