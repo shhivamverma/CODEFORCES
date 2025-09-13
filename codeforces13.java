@@ -1,6 +1,6 @@
 import java.util.*;
 class codeforces13
-{
+{                                                              // Problem 1806 A. Walking Master
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -24,4 +24,5 @@ class codeforces13
             }
         }
     }
+
 }
