@@ -1,6 +1,6 @@
 import java.util.*;
 class codeforces14
-{
+{                                                             // Problem 2126B - No Casino in the Mountains
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -37,3 +37,4 @@ class codeforces14
         }
     }
 }
+
