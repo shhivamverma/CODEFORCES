@@ -1,12 +1,10 @@
 import java.util.*;
 class codeforces15
-{
-    long arr[]=new long[1000001];
+{                                                    
     public static void main(String args[])
-    {
+    {                                                                       // Problem 1370A - Maximum GCD 
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
-        long arr[]=new long[1000001];
         for(int i=1;i<=t;i++)
         {
             int n=sc.nextInt();
@@ -23,3 +21,4 @@ class codeforces15
         }
     }
 }
+
