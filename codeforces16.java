@@ -1,5 +1,5 @@
 import java.util.*;
-class codeforces16
+class codeforces16                                                        // Problem 9A – Die Roll 
 {
     public static void main(String args[])
     {
@@ -61,3 +61,4 @@ class codeforces16
            
         }
     }
+
