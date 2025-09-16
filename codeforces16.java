@@ -1,64 +1,34 @@
 import java.util.*;
-class codeforces16                                                        // Problem 9A – Die Roll 
+public class codeforces16
 {
-    public static void main(String args[])
+    public static void main(String args[])                                       // - Problem 9A – Die Roll
     {
         Scanner sc=new Scanner(System.in);
         int y=sc.nextInt();
         int w=sc.nextInt();
-        String str="";
-        String str2="";
-        String s1="";
-        if(y<w && y!=0 && w!=0)
+        int max=Math.max(y,w);
+        int poss_outcomes=6-max+1;
+        int total_outcomes=6;
+        int maxx=0;
+        for(int i=1;i<=poss_outcomes;i++)
         {
-            int max=0;
-            for(int i=1;i<=y;i++)
+            if(poss_outcomes%i==0 && total_outcomes%i==0)
             {
-                if(w%i==0 && y%i==0)
+                if(i>maxx)
                 {
-                    if(i>max)
-                    {
-                        max=i;
-                    }
+                    maxx=i;
                 }
             }
-            y=y/max;
-            w=w/max;
-            str=String.valueOf(w);
-            str2=String.valueOf(y);
-            s1=str2+"/"+str;
-        }    
-        if(y>w && y!=0 && w!=0)
-        {
-            int maxx=0;
-            for(int j=1;j<=w;j++)
-            {
-                if(w%j==0 && y%j==0)
-                {
-                    if(j>maxx)
-                    {
-                        maxx=j;
-                    }
-                }
-            }
-            y=y/maxx;
-            w=w/maxx;
-            str=String.valueOf(w);
-            str2=String.valueOf(y);
-            s1=str+"/"+str2;   
         }
-        
-        
-            if((y==w) && y!=0 && w!=0)
-            {
-            System.out.println("1/1");
-            }
-            if((y==0)||(w==0))
-            {
-                System.out.println("0/1");
-            }
-            System.out.println(s1);
-           
-        }
+        poss_outcomes=poss_outcomes/maxx;
+        total_outcomes=total_outcomes/maxx;
+        String s1=String.valueOf(poss_outcomes);
+        String s2=String.valueOf(total_outcomes);
+        String ans=s1+"/"+s2;
+        System.out.println(ans);
     }
+}
+
+
+
 
