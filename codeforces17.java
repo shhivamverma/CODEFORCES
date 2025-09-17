@@ -1,6 +1,6 @@
 import java.util.*;
 class codeforces17
-{
+{                                                                        // Problem 1899A – Game with Integers
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -18,4 +18,5 @@ class codeforces17
             }
         }
     }
+
 }
