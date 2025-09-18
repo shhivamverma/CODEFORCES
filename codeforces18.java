@@ -1,6 +1,6 @@
 import java.util.*;
 class codeforces18
-{
+{                                                                       // Problem 1352A – Sum of Round Numbers
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -39,3 +39,4 @@ class codeforces18
         }
     }
 }
+
