@@ -1,6 +1,6 @@
 import java.util.*;
 class codeforces19
-{
+{                                                                      // Problem 1829B – Blank Space
     public static void main(String args[])
     {
         Scanner sc=new Scanner(System.in);
@@ -29,4 +29,5 @@ class codeforces19
             System.out.println(maxZeros);
         }
     }
+
 }
