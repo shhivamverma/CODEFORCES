@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces20 
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                                               // Problem 1791C – Prepend and Append
     {
         Scanner sc = new Scanner(System.in);
         int t=sc.nextInt(); 
@@ -22,3 +22,4 @@ public class codeforces20
     }
       
 }
+
