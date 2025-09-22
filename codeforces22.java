@@ -1,25 +1,22 @@
-import java.util.*;
+import java.util.Scanner;
 public class codeforces22 
-{                                                                    // 1985A - Creating Words
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+{
+    public static void main(String[] args)                                                      // 1985A - Creating Words
+    {
+        Scanner sc=new Scanner(System.in);
         int t = sc.nextInt();
-        while (t-- > 0) {
-            int n = sc.nextInt();
-            int maxLen = 0;
-            int cur = 0;
-            for (int i = 0; i < n; i++) {
-                int x = sc.nextInt();
-                if (x == 0) {
-                    cur++;
-                    if (cur > maxLen) maxLen = cur;
-                } else {
-                    cur = 0;
-                }
-            }
-            System.out.println(maxLen);
+        while (t!=0) 
+        {
+            String a = sc.next();
+            String b = sc.next();
+            char[] cha=a.toCharArray();
+            char[] chb=b.toCharArray();
+            char temp = cha[0];
+            cha[0]=chb[0];
+            chb[0]=temp;
+            System.out.println(new String(cha) + " " + new String(chb));
+            t--;
         }
-        sc.close();
+        
     }
 }
-
