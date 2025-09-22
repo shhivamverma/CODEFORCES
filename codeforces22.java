@@ -1,6 +1,6 @@
 import java.util.*;
 public class codeforces22 
-{
+{                                                                    // 1985A - Creating Words
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
@@ -22,3 +22,4 @@ public class codeforces22
         sc.close();
     }
 }
+
