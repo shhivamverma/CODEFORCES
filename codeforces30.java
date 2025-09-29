@@ -1,7 +1,7 @@
 import java.util.*;
 class codeforces30
 {
-    public static void main(String args[])
+    public static void main(String args[])                           // Problem - A486 Calculating Function
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -17,4 +17,5 @@ class codeforces30
             System.out.println(sum);
         }
     }
+
 }
