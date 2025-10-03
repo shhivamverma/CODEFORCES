@@ -1,7 +1,7 @@
 import java.util.*;
 class codeforces34
 {
-    public static void main(String args[])
+    public static void main(String args[])           // Problem 1834A - Unit Array
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -30,7 +30,6 @@ class codeforces34
             if(pos>=neg)
             {
                 ans=(neg % 2 == 0) ? 0 : 1;
-                System.out.println(ans);
             }
             else
             {
@@ -46,4 +45,5 @@ class codeforces34
             System.out.println(ans);
         }
     }
+
 }
