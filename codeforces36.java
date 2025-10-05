@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class codeforces36 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {               // PROBLEM 2040A - Game of Division
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();  // number of test cases
         
@@ -44,4 +44,5 @@ public class codeforces36 {
 
         sc.close();
     }
+
 }
