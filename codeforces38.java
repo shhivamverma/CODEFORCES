@@ -1,10 +1,12 @@
 import java.util.*;
-
-public class codeforces38{
-    public static void main(String[] args) {
+public class codeforces38
+{
+    public static void main(String[] args)           // Problem 2148A - Sublime Sequence
+    {
         Scanner sc = new Scanner(System.in);
-        int t = sc.nextInt();  // number of test cases
-        while (t-- > 0) {
+        int t = sc.nextInt();  
+        while (t-- > 0) 
+        {
             long x = sc.nextLong();
             long n = sc.nextLong();
             
@@ -13,6 +15,7 @@ public class codeforces38{
             else
                 System.out.println(x);
         }
-        sc.close();
+    
     }
 }
+
