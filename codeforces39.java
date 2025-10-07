@@ -1,46 +1,44 @@
+
 import java.util.*;
-class codeforces39
+public class codeforces39                             // Problem 1054A - Be Positive
 {
-    public static void main(String args[])
+
+    public static void main(String[] args) 
     {
-        Scanner sc=new Scanner(System.in);
-        int t=sc.nextInt();
-        for(int i=1;i<=t;i++)
-        {
-            int n=sc.nextInt();
-            String str=sc.next();
-            if(n>3)
-            {
-                char ch=str.charAt(0);
-                char chh=str.charAt(n-1);
-                int count=0;
-                if(ch==chh)
-                {
-                    char c1=str.charAt(1);
-                    for(int j=2;j<n-1;j++)
-                    {
-                        if(str.charAt(j)!=c1)
-                        {
-                            count++;
-                        }
-                    }
-                }
-                else
-                {
-                    for(int v=1;v<n;v++)
-                    {
-                        char c2=str.charAt(v);
-                        if(str.charAt(v)==c2)
-                        {
-                            count++;
-                        }
-                    }
+        Scanner sc = new Scanner(System.in);
+
+        if (!sc.hasNextInt()) return;
+        int t = sc.nextInt();
+
+        for (int i = 0; i < t; i++) {
+            
+            if (!sc.hasNextInt()) break;
+            int n = sc.nextInt();
+            
+            long zeroCount = 0;
+            long negOneCount = 0;
+            
+            for (int j = 0; j < n; j++) {
+                if (!sc.hasNextInt()) break;
+                int element = sc.nextInt();
+
+                if (element == 0) {
+                    zeroCount++;
+                } else if (element == -1) {
+                    negOneCount++;
                 }
             }
-            else
-            {
-                System.out.println("0");
+            
+            long totalOps = zeroCount;
+            
+            if (negOneCount % 2 != 0) {
+                totalOps += 2;
             }
+
+            System.out.println(totalOps);
         }
+        
+        
     }
 }
+          
