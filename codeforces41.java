@@ -1,6 +1,6 @@
 import java.util.*;
 public class codeforces41
-{
+{                                                     // Problem - 2145A Candies for Nephews
     public static void main(String[] args) 
     {
         Scanner sc=new Scanner(System.in);
@@ -19,4 +19,5 @@ public class codeforces41
             }
         }
     }
+
 }
