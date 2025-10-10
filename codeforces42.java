@@ -1,5 +1,5 @@
 import java.util.*;
-class codeforces42
+class codeforces42                                  // Problem 1760A - Medium Number
 {
     public static void main(String args[])
     {
@@ -45,4 +45,5 @@ class codeforces42
             }
         }
     }
+
 }
