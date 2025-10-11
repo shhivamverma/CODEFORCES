@@ -1,5 +1,5 @@
 import java.util.*;
-class codeforces43
+class codeforces43                                        // Problem 1901A - A. Line Trip
 {
     public static void main(String args[])
     {
@@ -32,4 +32,5 @@ class codeforces43
             System.out.println(max_distance);
         }
     }
+
 }
