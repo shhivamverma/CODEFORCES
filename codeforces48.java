@@ -1,7 +1,7 @@
 import java.util.*;
 class codeforces48
 {
-    public static void main(String args[])
+    public static void main(String args[])                 // Indian Summer 44A
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -25,4 +25,5 @@ class codeforces48
         }
         System.out.println(n-count);
     }
+
 }
