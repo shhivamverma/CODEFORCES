@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces50
+public class codeforces50                // Problem 50A - Domino piling
 {
     public static void main(String args[])
     {
@@ -10,3 +10,4 @@ public class codeforces50
         System.out.println(res/2);
     }
 }
+
