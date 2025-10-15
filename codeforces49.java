@@ -1,8 +1,8 @@
 import java.util.*;
 class codeforces49
 {
-    public static void main(String args[])
-    {
+    public static void main(String args[])         // Problem 1896A - Jagged Swaps
+    {                  
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
         for(int i=1;i<=t;i++)
@@ -33,3 +33,4 @@ class codeforces49
         }
     }
 }
+
