@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces52
+public class codeforces52                         // Problem 1950A - Stair, Peak, or Neither?
 {
     public static void main(String args[])
     {
@@ -24,4 +24,5 @@ public class codeforces52
          }
        }
     }
+
 }
