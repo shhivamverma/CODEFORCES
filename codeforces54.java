@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces54
 {
-    public static void main(String args[])
+    public static void main(String args[])              // Problem 2044A - Easy Problem 
     {
         Scanner sc=new Scanner(System.in);
    
@@ -23,4 +23,5 @@ public class codeforces54
         System.out.println(count);
     }
 }
+
 }
