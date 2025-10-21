@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces55
+public class codeforces55                               // Problem 630A - Again Twenty Five!
 {
     public static void main(String args[])
     {
@@ -8,5 +8,6 @@ public class codeforces55
         System.out.println("25");
     }
 }
+
 
  
