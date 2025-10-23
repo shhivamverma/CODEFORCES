@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces58
 {
-    public static void main(String args[])
+    public static void main(String args[])               // Problem 705A - Vasya the Hipster
     {
         Scanner sc=new Scanner(System.in); 
         int a=sc.nextInt();
@@ -20,4 +20,5 @@ public class codeforces58
         System.out.println(days);
         System.out.println(rem/2);
     }
+
 }
