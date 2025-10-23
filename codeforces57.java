@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces57
 {
-    public static void main(String args[])
+    public static void main(String args[])                // Problem 200B -  Drinks
     {
         Scanner sc=new Scanner(System.in);
     
@@ -16,4 +16,5 @@ public class codeforces57
     double percent = (total / n) * 100;
     System.out.println(percent);
 }
+
 }
