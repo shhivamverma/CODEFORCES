@@ -31,3 +31,4 @@ public class codeforces61
     System.out.println(year+1);
     }
 }
+
