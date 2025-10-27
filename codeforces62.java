@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces62
 {
-    public static void main(String args[])
+    public static void main(String args[])          //  Problem-2155A - El fucho
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -11,4 +11,5 @@ public class codeforces62
             System.out.println(2*a-2);
         }
     }
+
 }
