@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces64
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                    // Problem Your Name -  2167B 
     {
         Scanner sc = new Scanner(System.in);
         int q = sc.nextInt();
@@ -48,3 +48,4 @@ public class codeforces64
         
     }
 }
+
