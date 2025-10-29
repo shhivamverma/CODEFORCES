@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces65
 {
-    public static void main(String args[]) 
+    public static void main(String args[])        // Problem - 1409A  Yet Another Two Integers Problem
     {
         Scanner sc=new Scanner(System.in);
         long n=sc.nextLong();
@@ -30,4 +30,5 @@ public class codeforces65
            System.out.println(c+1);
     }
 }
+
 }
