@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces66
 {
-    public static void main(String args[])          // Problem 703A - Mishka and Game
+    public static void main(String args[])          // Problem 703 A - Mishka and Game
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -36,3 +36,4 @@ public class codeforces66
     }
 
 }
+
