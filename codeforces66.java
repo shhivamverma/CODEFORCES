@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces66
+public class codeforces666
 {
     public static void main(String args[])          // Problem 703 A - Mishka and Game
     {
@@ -36,4 +36,5 @@ public class codeforces66
     }
 
 }
+
 
