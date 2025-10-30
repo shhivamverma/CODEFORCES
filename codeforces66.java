@@ -1,7 +1,7 @@
 import java.util.*;
-public class codeforces66
+public class codeforces66 
 {
-    public static void main(String args[])
+    public static void main(String args[])            // Problem 703 A. Mishka and Game
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -34,4 +34,5 @@ public class codeforces66
             System.out.println("Friendship is magic!^^");
         }
     }
+
 }
