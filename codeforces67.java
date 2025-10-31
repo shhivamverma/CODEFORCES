@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces67
+public class codeforces67                           // Problem 1A - Theatre Square
 {
     public static void main(String args[])
     {
@@ -12,4 +12,5 @@ public class codeforces67
         System.out.println(row*column);
     }
 }
+
    
