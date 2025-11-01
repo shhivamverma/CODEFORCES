@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces68
 {
-    public static void main(String args[])
+    public static void main(String args[])        // Problem 1890A - Doremy's Paint 3
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -78,5 +78,6 @@ public class codeforces68
     }
 }
     
+
 
                 
