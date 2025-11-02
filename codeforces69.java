@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces69
 {
-    public static void main(String args[])
+    public static void main(String args[])                        // Problem - 4A Watermelon
     {
         Scanner sc=new Scanner(System.in);
         int num=sc.nextInt();
@@ -15,3 +15,4 @@ public class codeforces69
         }
     }
 }
+
