@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces70
 {
-            public static boolean is_substring(String s,String x)
+            public static boolean is_substring(String s,String x)           // Problem 1881 A. Don't Try to Count
             {
                 for(int i=0;i<=x.length()-s.length();i++)
                 {
@@ -64,4 +64,5 @@ public class codeforces70
                     System.out.println(ans);
                 }
             }
+
         }            
