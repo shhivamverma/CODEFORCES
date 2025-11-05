@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces72
 {
-	public static void main(String[] args) 
+	public static void main(String[] args)               // Problem 1877A - Goals of Victory
     {
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt(); 
@@ -21,4 +21,5 @@ public class codeforces72
 			System.out.println(sum*-1); 
 		}
     }
+
 }
