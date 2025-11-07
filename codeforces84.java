@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces84
 {
-    public static void main(String args[])
+    public static void main(String args[])          // Problem 1030A - In Search of an Easy Problem
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -19,4 +19,5 @@ public class codeforces84
         else
         System.out.println("EASY");
     }
+
 }
