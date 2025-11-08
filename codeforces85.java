@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) {                 // Problem 1760A - A. Medium Number
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
@@ -35,3 +35,4 @@ public class Main {
         sc.close();
     }
 }
+
