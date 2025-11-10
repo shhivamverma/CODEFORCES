@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces87
 {
-    public static void main(String args[])
+    public static void main(String args[])            // Problem 1858A. Buttons
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -34,4 +34,5 @@ public class codeforces87
             }
         }
     }
+
 }
