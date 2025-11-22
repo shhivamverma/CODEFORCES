@@ -3,7 +3,7 @@ public class codeforces105
 {
     public static void main(String args[])
     {
-        Scanner sc=new Scanner(System.in);
+        Scanner sc=new Scanner(System.in);                // Problem - 1783A Make it Beautiful 
         int t=sc.nextInt();
         for(int i=1;i<=t;i++)
         {
@@ -32,4 +32,5 @@ public class codeforces105
         }
     }
 }
+
 
