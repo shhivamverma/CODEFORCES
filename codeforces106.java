@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces106
 {
-    public static void main(String args[])
+    public static void main(String args[])            // Problem 1777A - Everybody Likes Good Arrays!
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -26,5 +26,6 @@ public class codeforces106
         }
     }
 }
+
 
  
