@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces107
 {
-    public static void main(String args[])
+    public static void main(String args[])           // Problem 1766A -  Extremely Round
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -37,4 +37,5 @@ public class codeforces107
         }
     }
 }
+
            
