@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces111
 {
-    public static void main(String args[])
+    public static void main(String args[])          // Problem 1829A - Love Story!
     {
         Scanner sc=new Scanner(System.in);
             int t=sc.nextInt();
@@ -22,5 +22,6 @@ public class codeforces111
             }
         }
     }
+
 
         
