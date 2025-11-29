@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces112 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);                  // problem - 1676A  Lucky?
         int t = sc.nextInt();  
         for (int k = 0; k < t; k++) {
             String s = sc.next();  
@@ -19,3 +19,4 @@ public class codeforces112 {
         }
     }
 }
+
