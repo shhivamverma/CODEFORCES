@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces115
 {
-    public  static void main(String args[])
+    public  static void main(String args[])          // Problem 1926A - Vlad and the Best of Five
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -20,3 +20,4 @@ public class codeforces115
         }
     }
 }
+
