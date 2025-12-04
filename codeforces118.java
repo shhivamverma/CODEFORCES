@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces118
 {
-    public static void main(String args[])
+    public static void main(String args[])             // Problem 1619A - Square String?
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -26,4 +26,5 @@ public class codeforces118
                System.out.println("NO");
         }
     }
+
 }
