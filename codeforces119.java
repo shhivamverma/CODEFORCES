@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces119
 {
-    public static void main(String  args[])
+    public static void main(String  args[])           // Problem 281A. Word Capitalization
     {
         Scanner sc=new Scanner(System.in);
         String s=sc.next();
@@ -11,4 +11,5 @@ public class codeforces119
         }
         System.out.println(s);
     }
+
 }
