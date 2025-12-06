@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces120 
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                         // Problem 59A - Word
     {
         Scanner sc=new Scanner(System.in);
         String s=sc.next();  
@@ -39,3 +39,4 @@ public class codeforces120
         System.out.println(result);
     }
 }
+
