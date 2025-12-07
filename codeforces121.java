@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces121
 {
-    public static void main(String args[]) 
+    public static void main(String args[])               // Problem 520A. Pangram
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -29,3 +29,4 @@ public class codeforces121
             System.out.println("NO");
     }
 }
+
