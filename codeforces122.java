@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces122
 {
-    public static void main(String args[]) 
+    public static void main(String args[])              // Problem 1560A. Dislike of Threes
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();   
@@ -27,3 +27,4 @@ public class codeforces122
 
     }
 }
+
