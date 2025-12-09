@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces123
 {
-    public static void main(String[] args) 
+    public static void main(String[] args)                // Problem 80A. Panoramix's Prediction
     {
         Scanner sc = new Scanner(System.in);
         int n=sc.nextInt();
@@ -27,3 +27,4 @@ public class codeforces123
             System.out.println("NO");
     }
 }
+
