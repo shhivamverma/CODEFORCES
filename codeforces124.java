@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class codeforces124 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {               // Problem codeforces 1915A - Odd One Out
         Scanner sc = new Scanner(System.in);
 
         int t = sc.nextInt();
@@ -23,3 +23,4 @@ public class codeforces124 {
     
     }
 }
+
