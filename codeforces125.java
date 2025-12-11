@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces125
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {           // Problem 577A.Multiplication Table
         Scanner sc = new Scanner(System.in);
 
         long n = sc.nextLong();
@@ -21,3 +21,4 @@ public class codeforces125
         System.out.println(count);
     }
 }
+
