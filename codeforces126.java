@@ -1,10 +1,10 @@
 import java.util.*;
 public class codeforces126 
 {
-    public static void main(String args[]) 
+    public static void main(String args[])            // Problem 263A - Beautiful Matrix
     {
         Scanner sc=new Scanner(System.in);
-        int r=0;
+        int r=0; 
         int c=0;
         for (int i = 1; i <= 5; i++) 
             {
@@ -22,3 +22,4 @@ public class codeforces126
         System.out.println(moves);
     }
 }
+
