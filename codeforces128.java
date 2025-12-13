@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces128
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                  // Problem 96A. Football
     {
         Scanner sc = new Scanner(System.in);
         String s = sc.next();
@@ -21,3 +21,4 @@ public class codeforces128
         System.out.println("NO");
     }
 }
+
