@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces130
 {
-    public static void main(String args[]) 
+    public static void main(String args[])             // Problem 1374A. Required Remainder
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -15,3 +15,4 @@ public class codeforces130
         }
     }
 }
+
