@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces131 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);                    // Problem 2104A. Three Decks
 
         int t = sc.nextInt();
 
@@ -25,3 +25,4 @@ public class codeforces131 {
     
     }
 }
+
