@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces134 
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                   // Problem 1955A. Yogurt Sale
     {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
@@ -25,3 +25,4 @@ public class codeforces134
         }
     }
 }
+
