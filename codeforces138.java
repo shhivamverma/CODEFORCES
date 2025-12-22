@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces138 
 {
-	public static void main(String args[])             // Problem 1875A. Jellyfish and Undertale
+	public static void main(String args[])             // Problem 1875A - Jellyfish and Undertale
     {
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt(); 
@@ -24,4 +24,5 @@ public class codeforces138
 		}
 	}
 }
+
 
