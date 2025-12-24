@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces142 
 {
-	public static void main(String args[]) 
+	public static void main(String args[])           // Problem 1855B. Longest Divisors Interval
     {
 		long a = 1;
 		for (long i = 2; i <= 50; i++) 
@@ -33,4 +33,5 @@ public class codeforces142
     private static long lcm(long a, long b) {
 		return a * (b / gcd(a, b));
 	}
+
 }
