@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces143
 {
-    public static void main(String args[])
+    public static void main(String args[])           // Problem 1850D . Longest Divisors Interval
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -35,4 +35,5 @@ public class codeforces143
             System.out.println(n-longcount);
         }
     }
+
 }
