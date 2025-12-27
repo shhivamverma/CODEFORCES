@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces149 
 {
-	public static void main(String args[]) 
+	public static void main(String args[])                 // Problem 1696B. NIT Destroys the Universe
     {
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt(); 
@@ -55,4 +55,5 @@ public class codeforces149
 		}
 		
 	}
+
 }
