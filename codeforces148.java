@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces148
 {
-    public static void main(String args[])
+    public static void main(String args[])             // Problem 1726A - Mainak and Array
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -29,4 +29,5 @@ public class codeforces148
             System.out.println(ans);
         }
     }
+
 }
