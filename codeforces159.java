@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces159 
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                 // Problem 1593B. Make it Divisible by 25
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -78,3 +78,4 @@ public class codeforces159
         }
     }
 }
+
