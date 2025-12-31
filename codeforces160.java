@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces160
 {
-    public static void main(String args[])
+    public static void main(String args[])          // Problem 1582B. Luntik and Subsequences
     {
         Scanner sc=new Scanner(System.in);
         long t=sc.nextLong();
@@ -29,4 +29,5 @@ public class codeforces160
             System.out.println(cnt1*((long)Math.pow(2,cnt0)));
         }
     }
+
 }
