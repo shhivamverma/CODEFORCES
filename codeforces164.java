@@ -1,6 +1,6 @@
 import java.util.*;
 public class codeforces164 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {              // Problem 136A. Presents
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         int[] ans = new int[n + 1];
@@ -15,3 +15,4 @@ public class codeforces164 {
         }
     }
 }
+
