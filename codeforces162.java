@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces162
 {
-    public static void main(String args[])
+    public static void main(String args[])                            // Problem 2182A. New Year String
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -21,4 +21,5 @@ public class codeforces162
             System.out.println(ans);
         }
     }
+
 }
