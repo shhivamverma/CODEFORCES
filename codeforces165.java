@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces165 
 {
-	public static void main(String args[]) 
+	public static void main(String args[])                   // Problem 1543A. Exciting Bets
     {
 		Scanner sc=new Scanner(System.in);
 		long t=sc.nextLong(); 
@@ -28,3 +28,4 @@ public class codeforces165
 		}
 	}
 }
+
