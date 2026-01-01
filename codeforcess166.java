@@ -1,7 +1,7 @@
 public import java.util.*;
 
 public class codeforcess166 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {            // Problem 1030A. In Search of an Easy Problem
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
@@ -20,3 +20,4 @@ public class codeforcess166 {
         }
     }
 }
+
