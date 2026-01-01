@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces161 
 {
-	public static void main(String args[]) 
+	public static void main(String args[])             //  Problem 1559A. Mocha and Math
     {
 		Scanner sc=new Scanner(System.in);
 		long t=sc.nextLong(); 
@@ -22,3 +22,4 @@ public class codeforces161
 		}
 	}
 }
+
