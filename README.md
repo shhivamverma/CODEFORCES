@@ -16,7 +16,7 @@ I consistently solve and upload **at least one problem every day** to strengthen
 - 🎓 B.Tech First Year Student  
 - 💻 Programming Language: **Java**
 - 🧠 Focus Areas: **Data Structures & Algorithms**
-- 🔥 **104+ days Codeforces streak**
+- 🔥 **110+ days Codeforces streak**
 - 📈 Actively improving competitive programming skills
 
 ---
