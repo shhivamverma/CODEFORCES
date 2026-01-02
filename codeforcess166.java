@@ -1,11 +1,11 @@
 public import java.util.*;
 
 public class codeforcess166 {
-    public static void main(String[] args) {            // Problem 1030A. In Search of an Easy Problem
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
 
-        boolean hard = false;
+        boolean hard = falcoddese;
         for (int i = 0; i < n; i++) {
             int x = sc.nextInt();
             if (x == 1) {
@@ -20,4 +20,3 @@ public class codeforcess166 {
         }
     }
 }
-
