@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces167
 {
-    public static void main(String args[])
+    public static void main(String args[])        // Problem 1537B. Bad Boy
     {
         Scanner sc=new Scanner(System.in);
         long t=sc.nextLong();
@@ -14,4 +14,5 @@ public class codeforces167
             System.out.println("1"+" "+"1"+" "+n+" "+m);
         }
     }
+
 }
