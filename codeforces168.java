@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces168
 {
-    public static void main(String args[])
+    public static void main(String args[])                     // Probllem 1475A. Odd Divisor
     {
         Scanner sc=new Scanner(System.in);
         long t=sc.nextLong();
@@ -22,4 +22,5 @@ public class codeforces168
             }
         }
     }
+
 }
