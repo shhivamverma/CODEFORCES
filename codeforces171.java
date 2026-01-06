@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces171
 {
-    public static void main(String args[])
+    public static void main(String args[])               // Problem 1440B. Problem of Median
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -28,3 +28,4 @@ public class codeforces171
         }
     }
 }
+
