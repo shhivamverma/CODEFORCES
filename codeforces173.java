@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces173
 {
-    public static void main(String args[])
+    public static void main(String args[])          // Problem 1373B. 01 Game
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -32,4 +32,5 @@ public class codeforces173
             }
         }
     }
+
 }
