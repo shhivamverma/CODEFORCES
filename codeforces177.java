@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces177
 {
-	public static void main(String args[]) 
+	public static void main(String args[])                 // Problem 1883C. Raspberries
     {
 		Scanner sc=new Scanner(System.in);
 		long t=sc.nextLong(); 
@@ -52,3 +52,4 @@ public class codeforces177
 		}
 	}
 }
+
