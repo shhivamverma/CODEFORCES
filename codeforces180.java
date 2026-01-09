@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces180
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                       // Problem 1859B. Olya and Game with Arrays
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -36,3 +36,4 @@ public class codeforces180
         }
     }
 }
+
