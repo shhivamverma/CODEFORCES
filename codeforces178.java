@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces178
 {
-    public static void main(String args[]) 
+    public static void main(String args[])               // Problem 2121D. 1709
     {
         Scanner sc=new Scanner(System.in);
         int t = sc.nextInt();
@@ -70,3 +70,4 @@ public class codeforces178
         }
     }
 }
+
