@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces182
 {
-    public static void main(String args[])
+    public static void main(String args[])                     // Problem 2121E. Sponsor of Your Problems
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -61,6 +61,7 @@ public class codeforces182
         }
     }
 }
+
 
 
              
