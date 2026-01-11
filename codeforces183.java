@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces183 
 {
-	public static void main(String args[])
+	public static void main(String args[])                  // Problem 1840C. Ski Resort
     {
 		Scanner sc=new Scanner(System.in);
 		long t=sc.nextLong(); 
@@ -51,3 +51,4 @@ public class codeforces183
 		}
 	}
 }
+
