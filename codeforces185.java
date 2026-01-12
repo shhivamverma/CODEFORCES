@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces185
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                       // Problem 1791D. Distinct Split
     {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
@@ -42,3 +42,4 @@ public class codeforces185
         }
     }
 }
+
