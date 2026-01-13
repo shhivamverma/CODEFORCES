@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces189
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                // Problem 489C. Given Length and Sum of Digits...
     {
         Scanner sc=new Scanner(System.in);
         int m=sc.nextInt();
@@ -52,3 +52,4 @@ public class codeforces189
         System.out.println(mn + " " + mx);
     }
 }
+
