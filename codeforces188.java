@@ -2,7 +2,7 @@ import java.util.*;
 
 public class codeforces188
 {
-    public static void main(String[] args) {
+    public static void main(String[] args) {             // Problem 2184C. Huge Pile
         Scanner sc = new Scanner(System.in);
 
         int t = sc.nextInt();
@@ -39,3 +39,4 @@ public class codeforces188
 
     }
 }
+
