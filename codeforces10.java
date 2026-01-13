@@ -1,7 +1,7 @@
 import java.util.*;
 class codeforces10
 {
-    public static void main(String args[])                                     // Problem 2131A – Lever
+    public static void main(String args[])                                     // Problem 2131A – Leverr
     {
         Scanner sc=new Scanner(System.in);
         int t = sc.nextInt();   
@@ -32,3 +32,4 @@ class codeforces10
     }
 
 }
+
