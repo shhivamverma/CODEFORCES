@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces186
 {
-    public static void main(String args[])
+    public static void main(String args[])            //  Problem 1765M. Minimum LCM
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -22,4 +22,5 @@ public class codeforces186
             System.out.println(a+" "+b);
         }
     }
+
 }
