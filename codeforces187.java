@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces187
 {
-    public static void main(String args[])
+    public static void main(String args[])                   // Problem 279B. Books
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -30,3 +30,4 @@ public class codeforces187
         System.out.println(count);
     }
 }
+
