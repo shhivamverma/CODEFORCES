@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces191
 {
-    public static void main(String args[])
+    public static void main(String args[])                 // Problem 1725B. Basketball Together
     {
         Scanner sc=new Scanner(System.in);
         
@@ -35,4 +35,5 @@ public class codeforces191
             System.out.println(teams);
         }
     
+
 }
