@@ -1,7 +1,8 @@
 import java.util.*;
 public class codeforces193
 {
-    public static void main(String args[])
+    public static void main(String args[])                // Problem 1704B. Luke is a Foodie
+
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -37,4 +38,5 @@ public class codeforces193
             System.out.println(ans);
         }
     }
+
 }
