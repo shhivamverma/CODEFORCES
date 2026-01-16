@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces196
 {
-	public static void main(String args[]) 
+	public static void main(String args[])              // Problem 1690D. Black and White Stripe
     {
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt(); 
@@ -32,3 +32,4 @@ public class codeforces196
 		}
     }
 }
+
