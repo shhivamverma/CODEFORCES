@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces198
 {
-	public static void main(String args[]) 
+	public static void main(String args[])                  // Problem 1620B. Triangles on a Rectangle
     {
 		Scanner sc=new Scanner(System.in);
 		int t=sc.nextInt();
@@ -44,3 +44,4 @@ public class codeforces198
 		
 	}
 }
+
