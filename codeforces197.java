@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces197
 {
-    public static void main(String args[])
+    public static void main(String args[])               // Problem 1659A. Red Versus Blue
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -33,4 +33,5 @@ public class codeforces197
             System.out.println(s.toString());
         }
     }
+
 }
