@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces200
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                 // Problem 1614B. Divan and a New Project
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -47,4 +47,5 @@ public class codeforces200
             System.out.println();
         }
     }
+
 }
