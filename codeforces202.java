@@ -1,8 +1,8 @@
 import java.util.*;
 public class codeforces202
 {
-    public static void main(String args[])
-    {
+    public static void main(String args[])                    // Problem 1506C. Double-ended Strings
+    { 
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
         while(t-->0)
@@ -31,4 +31,5 @@ public class codeforces202
             System.out.println(ops);
         }
     }
+
 }
