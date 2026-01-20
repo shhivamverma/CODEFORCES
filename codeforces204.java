@@ -1,7 +1,8 @@
 import java.util.*;
 public class codeforces204
 {
-    public static void main(String args[])
+    public static void main(String args[])              // Problem 1485A. Add and Divide
+
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -29,5 +30,6 @@ public class codeforces204
             System.out.println(ans);
         }
     }
+
 
 }
