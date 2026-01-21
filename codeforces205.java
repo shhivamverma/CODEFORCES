@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces205 
 {
-    public static void main(String args[]) 
+    public static void main(String args[])              // Problem 1474B. Different Divisors
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -54,3 +54,4 @@ public class codeforces205
         }
     }
 }
+
