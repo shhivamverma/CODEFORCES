@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces206
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                // Problem 1305C. Kuroni and Impossible Calculation 
     {
         Scanner sc=new Scanner(System.in);
         long n=sc.nextLong();
@@ -27,3 +27,4 @@ public class codeforces206
         System.out.println(prod%m);
     }
 }
+
