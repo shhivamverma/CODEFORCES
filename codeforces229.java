@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces229
 {
-    public static void main(String args[])
+    public static void main(String args[])               // Problem 1827A. Counting Orders
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -51,4 +51,5 @@ public class codeforces229
             System.out.println(ans);
         }
     }
+
 }
