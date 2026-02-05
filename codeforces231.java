@@ -1,7 +1,8 @@
+// Once I am done , I will be gone , You wont see me for a while
 import java.util.*;
 public class codeforces231
 {
-    public static void main(String args[])
+    public static void main(String args[])                                               // Problem 2170C - Quotient and Remainder
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
@@ -35,4 +36,5 @@ public class codeforces231
             System.out.println(ans);
         }
     }
+
 }
