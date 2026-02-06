@@ -1,7 +1,9 @@
+// Once I am done , I will be gone , You wont see me for a while
+
 import java.util.*;
 public class codeforces232
 {
-    public static long gcd(long a, long b) 
+    public static long gcd(long a, long b)                                    // Problem 1982D. Beauty of the mountains
     {
         while(b!=0) 
         {
@@ -110,3 +112,4 @@ public class codeforces232
         }
     }
 }
+
