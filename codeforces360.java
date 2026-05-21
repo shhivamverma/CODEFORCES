@@ -1,5 +1,5 @@
 import java.util.*;
-public class codeforces360
+public class codeforces360                                         // Problem 2065A. Skibidus and Amog'u
 {
     public static void main(String args[])
     {
