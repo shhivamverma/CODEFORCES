@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces372
 {
-    public static void main(String args[])
+    public static void main(String args[])                    // Problem 105231C. Liar
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
@@ -11,17 +11,16 @@ public class codeforces372
         {
             arr[i]=sc.nextInt();
         }
-        Arrays.sort(arr);
+        
         int sum=0;
-        int count=0;
+        
         for(int i=0;i<n;i++)
         {
             sum=sum+arr[i];
-            if(sum<s)
-            {
-                count++;
-            }
         }
-        System.out.println(count+1);
+        if(sum==s)
+        System.out.println(n);
+        else
+        System.out.println(n-1);
     }
 }
