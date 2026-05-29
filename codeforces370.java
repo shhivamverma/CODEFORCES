@@ -3,7 +3,7 @@
 import java.util.*;
 public class codeforces370
 {
-    public static void main(String args[])
+    public static void main(String args[])                            // Problem 1703E. Mirror Grid
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
