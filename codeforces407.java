@@ -3,7 +3,7 @@
 import java.util.*;
 public class codeforces407
 {
-    public static void main(String args[])
+    public static void main(String args[])                         // Problem 2237C. Duck Surplus
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
