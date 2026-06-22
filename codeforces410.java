@@ -3,7 +3,7 @@
 import java.util.*;
 public class codeforces410 
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                                // Problem 1537E1. Erase and Extend (Easy Version)
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
