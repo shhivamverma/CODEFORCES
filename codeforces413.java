@@ -3,7 +3,7 @@
 import java.util.*;
 public class codeforces413
 {
-    public static void main(String args[])
+    public static void main(String args[])                  // Problem 1294C. Product of Three Numbers
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
