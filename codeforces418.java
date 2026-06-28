@@ -8,7 +8,7 @@
 import java.util.*;
 public class codeforces418
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                                    // Problem - 2240A. Another Popcount Problem
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
