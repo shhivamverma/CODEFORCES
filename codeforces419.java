@@ -8,7 +8,7 @@
 //  ╚══════╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝   ╚═╝  ╚═╝ ╚═╝     ╚═╝
 
 import java.util.*;
-public class codeforces419 
+public class codeforces419                                                         // Problem 1914D. Three Activities
 {
     public static void main(String args[]) 
     {
