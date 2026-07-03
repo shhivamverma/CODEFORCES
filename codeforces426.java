@@ -1,7 +1,7 @@
 import java.util.*;
 public class codeforces426
 {
-    public static void main(String args[]) 
+    public static void main(String args[])                                // Problem 154B. Colliders
     {
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
