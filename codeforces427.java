@@ -10,7 +10,7 @@
 import java.util.*;
 public class codeforces427
 {
-    public static void main(String args[])
+    public static void main(String args[])                                     // Problem 1857C. Assembly via Minimums
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
