@@ -2,7 +2,7 @@ import java.util.*;
 public class codeforces430
 {
     static final long MOD=1000000007L;
-    static long power(long base,long x) 
+    static long power(long base,long x)                                // Problem - 584B. Kolya and Tanya
     {
         long ans=1;
         base=base%MOD;
