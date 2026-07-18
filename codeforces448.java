@@ -8,7 +8,7 @@
 //  ╚══════╝ ╚═╝  ╚═╝ ╚═╝   ╚═══╝   ╚═╝  ╚═╝ ╚═╝     ╚═╝
 
 import java.util.*;
-public class codeforces448
+public class codeforces448                                                        // Problem 1536B. Prinzessin der Verurteilung
 {
     public static void main(String args[])
     {
