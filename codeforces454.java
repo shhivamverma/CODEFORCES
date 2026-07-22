@@ -10,7 +10,7 @@
 import java.util.*;
 public class codeforces454
 {
-    public static void main(String args[])
+    public static void main(String args[])                             // Problem 1832C. Contrast Value
     {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
